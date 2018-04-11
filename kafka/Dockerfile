@@ -1,7 +1,7 @@
 FROM openjdk:8u151-jre-alpine
 
-ARG kafka_version=1.0.1
-ARG scala_version=2.12
+ARG kafka_version=1.1.0
+ARG scala_version=2.11
 
 MAINTAINER wurstmeister
 
